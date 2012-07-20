@@ -1,0 +1,8 @@
+1342792924
+Application	/home/jsltaic/rails_projects/demo_app/config/application.rb	  class Application 
+ApplicationController	/home/jsltaic/rails_projects/demo_app/app/controllers/application_controller.rb	class ApplicationController 
+ApplicationHelper	/home/jsltaic/rails_projects/demo_app/app/helpers/application_helper.rb	module ApplicationHelper
+BrowsingTest	/home/jsltaic/rails_projects/demo_app/test/performance/browsing_test.rb	class BrowsingTest 
+DemoApp	/home/jsltaic/rails_projects/demo_app/config/application.rb	module DemoApp
+TestCase	/home/jsltaic/rails_projects/demo_app/test/test_helper.rb	class ActiveSupport::TestCase
+test_homepage	/home/jsltaic/rails_projects/demo_app/test/performance/browsing_test.rb	  def test_homepage
